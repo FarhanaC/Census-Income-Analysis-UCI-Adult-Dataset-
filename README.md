@@ -1,4 +1,4 @@
-# UCI Adult Dataset Analysis
+# Cencus Income Analysis (UCI Adult Dataset)
 Capstone Project
 
 ### Exploratory Data Analysis (EDA)
