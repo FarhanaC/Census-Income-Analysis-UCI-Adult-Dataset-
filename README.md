@@ -47,5 +47,6 @@ GitHub Link: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Datase
 #### STEP 02: Initial Code
 GitHub Link: 
 HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.html
+
 JUPYTER NOTEBOOK: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.ipynb
 
