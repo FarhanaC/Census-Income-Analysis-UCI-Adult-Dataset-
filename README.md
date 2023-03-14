@@ -45,6 +45,7 @@ This is a multivariate datatset, as a result we will need to consider multiple v
 GitHub Link: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/EDA%20on%20Adult%20Dataset%20using%20Pandas%20Profiling.html
 
 #### STEP 02: Initial Code
-GitHub Link: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.html
-
+GitHub Link: 
+HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.html
+JUPYTER NOTEBOOK: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.ipynb
 
