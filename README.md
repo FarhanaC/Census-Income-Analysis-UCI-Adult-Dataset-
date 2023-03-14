@@ -40,3 +40,11 @@ This is a multivariate datatset, as a result we will need to consider multiple v
 * **Capital-loss:** continuous.
 * **Hours-per-week:** continuous.
 * **Native-country:** United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+
+#### STEP 01: Exploratory Data Analysis
+GitHub Link: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/EDA%20on%20Adult%20Dataset%20using%20Pandas%20Profiling.html
+
+#### STEP 02: Initial Code
+GitHub Link: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Initial%20Code%20-%20UCI%20Adult%20Dataset.html
+
+
