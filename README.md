@@ -53,16 +53,20 @@ JUPYTER NOTEBOOK: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-D
 #### Final submission:
 ##### EDA (revised): 
 HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%201%20-%20EDA%20and%20data%20processing%20(revised).html
+
 IPYNB: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%201%20-%20EDA%20and%20data%20processing%20(revised).ipynb
 
 ##### Random Forest:
 HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%202%20-%20Random%20Forest%20Classifier.html
+
 IPYNB: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%202%20-%20Random%20Forest%20Classifier.ipynb
 
 ##### XGBoost:
 HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%203%20-%20XGBoost%20Classifier.html
+
 IPYNB: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%203%20-%20XGBoost%20Classifier.ipynb
 
 ##### Logistic Regression:
 HTML: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%204%20-%20Logistic%20Regression.html
+
 IPYNB: https://github.com/FarhanaC/Census-Income-Analysis-UCI-Adult-Dataset-/blob/main/Part%204%20-%20Logistic%20Regression.ipynb
